@@ -187,7 +187,7 @@ $ java Main
 Hello gradle!
 </pre>
 
-Yleensä java-koodia ei suoriteta käyttämällä suoraan _class_-tiedostoja. Parempi tapa on pakata koodi  _jar_-tiedostoksi viikon 1 [tehtävän 7](https://github.com/mluukkai/ohjelmistotuotanto2017/blob/master/laskarit/1.md#7-gradle) tapaan.
+Yleensä java-koodia ei suoriteta käyttämällä suoraan _class_-tiedostoja. Parempi tapa on pakata koodi  _jar_-tiedostoksi viikon 1 [tehtävän 7](https://github.com/mluukkai/ohjelmistotuotanto2018/blob/master/laskarit/1.md#7-gradle) tapaan.
 
 Jar-tiedosto muodostetaan gradlen taskilla jar. Help kertoo seuraavaa:
 
@@ -436,4 +436,5 @@ Kun suoritamme uudelleen komennon _gradle test_ kaikki toimii.
 
 Rikotaan vielä testi ja varmistetaan että junit huomaa virheen.
 
-JUnitista on pitkän odotuksen jälkeen ilmestynyt JUnitin uusi versio [JUnit5](http://junit.org/junit5/) on ilmestynyt vuosien odotuksen jälkeen tämän vuoden syyskuussa. JUnit5:ssä on monia mielenkiintoisia uudistuksia, mutta valitettavasti työkalutuki on tässä vaiheessa vielä niin kesken, että joudumme kurssilla käyttämään vielä vanhaa JUnitia.
+JUnitin uusi versio [JUnit5](http://junit.org/junit5/) on ilmestynyt vuosien odotuksen jälkeen tämän vuoden syyskuussa. JUnit5:ssä on monia mielenkiintoisia uudistuksia, mutta valitettavasti työkalutuki on tässä vaiheessa vielä niin kesken, että joudumme kurssilla käyttämään vielä vanhaa JUnitia.
+
